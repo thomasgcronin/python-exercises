@@ -1,0 +1,8 @@
+my_dogs = ("Fido", "Barksalot", "King")
+
+animals_dictionary = {
+    my_dogs: "Clean Dogs R Us",
+    "asdf": "qwer"
+}
+
+print animals_dictionary
